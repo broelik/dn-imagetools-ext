@@ -2,7 +2,7 @@
 Пакет для работы с анимированным изображениями(GIF). В дальнейшем планируется добавить поддержку других форматов.
 По вопросам - https://vk.com/dn_extension или https://vk.com/broelik.
 ## Скачать
-Последняя версия - https://github.com/broelik/dn-imagetools-ext/releases/tag/0.1
+Последняя версия - https://github.com/broelik/dn-imagetools-ext/releases/latest
 ## Пример кода
 Чтение GIF:
 ```php
